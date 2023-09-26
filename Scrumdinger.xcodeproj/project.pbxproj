@@ -20,6 +20,7 @@
 		182228722ABD584500B6DF90 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182228712ABD584500B6DF90 /* DetailEditView.swift */; };
 		1822287F2AC149EA00B6DF90 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1822287E2AC149EA00B6DF90 /* ThemeView.swift */; };
 		182228822AC14D0200B6DF90 /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182228812AC14D0200B6DF90 /* ThemePicker.swift */; };
+		182228882AC29C1700B6DF90 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182228872AC29C1700B6DF90 /* MeetingHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		182228712ABD584500B6DF90 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		1822287E2AC149EA00B6DF90 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 		182228812AC14D0200B6DF90 /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
+		182228872AC29C1700B6DF90 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				182228712ABD584500B6DF90 /* DetailEditView.swift */,
 				1822287E2AC149EA00B6DF90 /* ThemeView.swift */,
 				182228812AC14D0200B6DF90 /* ThemePicker.swift */,
+				182228872AC29C1700B6DF90 /* MeetingHeaderView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				182228822AC14D0200B6DF90 /* ThemePicker.swift in Sources */,
 				182228682ABBFD0B00B6DF90 /* DailyScrum.swift in Sources */,
 				182228702ABC0A6200B6DF90 /* DetailView.swift in Sources */,
+				182228882AC29C1700B6DF90 /* MeetingHeaderView.swift in Sources */,
 				182228722ABD584500B6DF90 /* DetailEditView.swift in Sources */,
 				1822286C2ABC016200B6DF90 /* TrailingIconLabelStyle.swift in Sources */,
 				182228662ABBFC2000B6DF90 /* Theme.swift in Sources */,
