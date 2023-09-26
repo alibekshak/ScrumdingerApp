@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1818958A2AC2A11B0074B260 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181895892AC2A11B0074B260 /* ScrumProgressViewStyle.swift */; };
+		1818958C2AC2A1690074B260 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1818958B2AC2A1690074B260 /* ScrumTimer.swift */; };
+		181895902AC2A2F10074B260 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1818958F2AC2A2F00074B260 /* MeetingFooterView.swift */; };
+		181895922AC2A5D00074B260 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181895912AC2A5D00074B260 /* AVPlayer+Ding.swift */; };
 		182228572ABBF46D00B6DF90 /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182228562ABBF46D00B6DF90 /* ScrumdingerApp.swift */; };
 		182228592ABBF46D00B6DF90 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182228582ABBF46D00B6DF90 /* MeetingView.swift */; };
 		1822285B2ABBF46F00B6DF90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1822285A2ABBF46F00B6DF90 /* Assets.xcassets */; };
@@ -24,6 +28,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		181895892AC2A11B0074B260 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
+		1818958B2AC2A1690074B260 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
+		1818958F2AC2A2F00074B260 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
+		181895912AC2A5D00074B260 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 		182228532ABBF46D00B6DF90 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		182228562ABBF46D00B6DF90 /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		182228582ABBF46D00B6DF90 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -94,6 +102,8 @@
 				182228652ABBFC2000B6DF90 /* Theme.swift */,
 				182228672ABBFD0B00B6DF90 /* DailyScrum.swift */,
 				1822286B2ABC016200B6DF90 /* TrailingIconLabelStyle.swift */,
+				1818958B2AC2A1690074B260 /* ScrumTimer.swift */,
+				181895912AC2A5D00074B260 /* AVPlayer+Ding.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -109,6 +119,8 @@
 				1822287E2AC149EA00B6DF90 /* ThemeView.swift */,
 				182228812AC14D0200B6DF90 /* ThemePicker.swift */,
 				182228872AC29C1700B6DF90 /* MeetingHeaderView.swift */,
+				181895892AC2A11B0074B260 /* ScrumProgressViewStyle.swift */,
+				1818958F2AC2A2F00074B260 /* MeetingFooterView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -184,6 +196,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				182228822AC14D0200B6DF90 /* ThemePicker.swift in Sources */,
+				1818958A2AC2A11B0074B260 /* ScrumProgressViewStyle.swift in Sources */,
+				181895902AC2A2F10074B260 /* MeetingFooterView.swift in Sources */,
+				1818958C2AC2A1690074B260 /* ScrumTimer.swift in Sources */,
 				182228682ABBFD0B00B6DF90 /* DailyScrum.swift in Sources */,
 				182228702ABC0A6200B6DF90 /* DetailView.swift in Sources */,
 				182228882AC29C1700B6DF90 /* MeetingHeaderView.swift in Sources */,
@@ -195,6 +210,7 @@
 				182228572ABBF46D00B6DF90 /* ScrumdingerApp.swift in Sources */,
 				1822287F2AC149EA00B6DF90 /* ThemeView.swift in Sources */,
 				1822286A2ABBFD7700B6DF90 /* CardView.swift in Sources */,
+				181895922AC2A5D00074B260 /* AVPlayer+Ding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
