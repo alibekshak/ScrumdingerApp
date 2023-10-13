@@ -27,6 +27,7 @@
 		1822287F2AC149EA00B6DF90 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1822287E2AC149EA00B6DF90 /* ThemeView.swift */; };
 		182228822AC14D0200B6DF90 /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182228812AC14D0200B6DF90 /* ThemePicker.swift */; };
 		182228882AC29C1700B6DF90 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182228872AC29C1700B6DF90 /* MeetingHeaderView.swift */; };
+		186874E12AD82D9B00FF2397 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186874E02AD82D9B00FF2397 /* ScrumStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		1822287E2AC149EA00B6DF90 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 		182228812AC14D0200B6DF90 /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
 		182228872AC29C1700B6DF90 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
+		186874E02AD82D9B00FF2397 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				1818958B2AC2A1690074B260 /* ScrumTimer.swift */,
 				181895912AC2A5D00074B260 /* AVPlayer+Ding.swift */,
 				181895952AC4265D0074B260 /* History.swift */,
+				186874E02AD82D9B00FF2397 /* ScrumStore.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				181895902AC2A2F10074B260 /* MeetingFooterView.swift in Sources */,
 				1818958C2AC2A1690074B260 /* ScrumTimer.swift in Sources */,
 				182228682ABBFD0B00B6DF90 /* DailyScrum.swift in Sources */,
+				186874E12AD82D9B00FF2397 /* ScrumStore.swift in Sources */,
 				182228702ABC0A6200B6DF90 /* DetailView.swift in Sources */,
 				182228882AC29C1700B6DF90 /* MeetingHeaderView.swift in Sources */,
 				182228722ABD584500B6DF90 /* DetailEditView.swift in Sources */,
