@@ -31,6 +31,7 @@
 		186874E12AD82D9B00FF2397 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186874E02AD82D9B00FF2397 /* ScrumStore.swift */; };
 		189702AF2ADD593900F1C1E9 /* ErrorWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189702AE2ADD593900F1C1E9 /* ErrorWrapper.swift */; };
 		189702B12ADD599D00F1C1E9 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189702B02ADD599D00F1C1E9 /* ErrorView.swift */; };
+		18C5A7542AE166AF00937878 /* SpeakerArc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C5A7532AE166AF00937878 /* SpeakerArc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		186874E02AD82D9B00FF2397 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 		189702AE2ADD593900F1C1E9 /* ErrorWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorWrapper.swift; sourceTree = "<group>"; };
 		189702B02ADD599D00F1C1E9 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
+		18C5A7532AE166AF00937878 /* SpeakerArc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeakerArc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 				181895932AC4226B0074B260 /* NewScrumSheet.swift */,
 				189702B02ADD599D00F1C1E9 /* ErrorView.swift */,
 				181955C82ADFFB68003857F6 /* MeetingTimerView.swift */,
+				18C5A7532AE166AF00937878 /* SpeakerArc.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				182228822AC14D0200B6DF90 /* ThemePicker.swift in Sources */,
 				1818958A2AC2A11B0074B260 /* ScrumProgressViewStyle.swift in Sources */,
 				181895902AC2A2F10074B260 /* MeetingFooterView.swift in Sources */,
+				18C5A7542AE166AF00937878 /* SpeakerArc.swift in Sources */,
 				189702B12ADD599D00F1C1E9 /* ErrorView.swift in Sources */,
 				1818958C2AC2A1690074B260 /* ScrumTimer.swift in Sources */,
 				181955C92ADFFB68003857F6 /* MeetingTimerView.swift in Sources */,
